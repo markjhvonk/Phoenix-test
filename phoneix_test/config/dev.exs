@@ -51,6 +51,6 @@ config :phoneix_test, PhoneixTest.Repo,
   adapter: Ecto.Adapters.MySQL,
   username: "root",
   password: "",
-  database: "phoneix_test_dev",
+  database: "laraveltest",
   hostname: "localhost",
   pool_size: 10
